@@ -1,6 +1,6 @@
 # laboratorio Gruppo 9
 
-##Descrizione
+## Descrizione
 
 Il progetto laboratorio gruppo 9 si occuperà di tradurre il 
 testo delle canzoni top 10 global in francese e spagnolo.
