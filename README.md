@@ -5,7 +5,7 @@
 Il progetto laboratorio gruppo 9 si occuperà di tradurre il 
 testo delle canzoni top 10 global in francese e spagnolo.
 
-## Regolo di Struttura
+## Regole di Struttura
 
 le indentazioni devono esser chiare e leggibili, 
 lasciando una riga vuota di spazio tra ogni strofa della canzone.
